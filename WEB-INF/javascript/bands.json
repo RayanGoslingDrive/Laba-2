@@ -1,8 +1,8 @@
-[
   {
     "Bandname": "Sabaton",
     "hometown": "Falun Sweden",
     "formed": 1999,
+    "last_ablbum": "The War to End All Wars",
     "members": [
       "Joakim Brodén",
       "Pär Sundström",
@@ -10,61 +10,4 @@
       "Hannes Van Dahl",
       "Tommy Johansson"
     ],
-    "last_ablbum": "The War to End All Wars"
-  },
-  {
-    "Bandname": "In Flames",
-    "hometown": "Gothenburg Sweden",
-    "formed": 1990,
-    "members":
-    [
-      "Björn Gelotte",
-      "Anders Fridén",
-      "Bryce Paul",
-      "Tanner Wayne",
-      "Chris Broderick"
-    ],
-    "last_ablbum": "Foregone"
-  },
-  {
-    "Bandname": "Lich King",
-    "hometown": "Amherst Massachusetts US",
-    "formed": 2004,
-    "members": [
-      "Nick Timney",
-      "Joe Nickerson",
-      "Mike Dreher",
-      "Brian Westbrook",
-      "Zachary Smith"
-    ],
-    "last_ablbum": "The Omniclasm"
-  },
-  {
-    "Bandname": "Toxic Holocaust",
-    "hometown": "Portland Oregon",
-    "formed": 1999,
-    "members": [
-      "Joel Grind",
-      "Tyler Becker",
-      "Robert Gray"
-    ],
-    "last_ablbum": "Primal Future: 2019"
-  },
-  {
-    "Bandname": "Slipknot",
-    "hometown": "Des Moines Iowa US",
-    "formed": 1995,
-    "members": [
-      "Shawn Crahan",
-      "Craig Jones",
-      "Mick Thomson",
-      "Corey Taylor",
-      "Sid Wilson",
-      "Jim Root",
-      "Alessandro Venturella",
-      "Jay Weinberg",
-      "Michael Pfaff"
-    ],
-    "last_ablbum": "The End, So Far"
   }
-]
