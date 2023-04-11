@@ -1,8 +1,8 @@
-[
+{"Bands" : [
 {
     "Bandname": "Sabaton",
-    "hometown": "Falun, Sweden",
-    "formed": "1999",
+    "hometown": "Falun Sweden",
+    "formed": 1999,
     "last_ablbum": "The War to End All Wars",
     "members": [
       "Joakim Brodén",
@@ -14,8 +14,8 @@
   },
   {
     "Bandname": "In Flames",
-    "hometown": "Gothenburg, Sweden",
-    "formed": "1990",
+    "hometown": "Gothenburg Sweden",
+    "formed": 1990,
     "last_ablbum": "Foregone",
     "members":
     [
@@ -28,8 +28,8 @@
   },
   {
     "Bandname": "Lich King",
-    "hometown": "Amherst, Massachusetts, U.S.",
-    "formed": "2004",
+    "hometown": "Amherst Massachusetts",
+    "formed": 2004,
     "last_ablbum": "The Omniclasm",
     "members": [
       "Nick Timney",
@@ -41,8 +41,8 @@
   },
   {
     "Bandname": "Toxic Holocaust",
-    "hometown": "Portland, Oregon",
-    "formed": "1999",
+    "hometown": "Portland Oregon",
+    "formed": 1999,
     "last_ablbum": "Primal Future: 2019",
     "members": [
       "Joel Grind",
@@ -52,8 +52,8 @@
   },
   {
     "Bandname": "Slipknot",
-    "hometown": "Des Moines, Iowa, U.S.",
-    "formed": "1995",
+    "hometown": "Des Moines Iowa",
+    "formed": 1995,
     "last_ablbum": "The End, So Far",
     "members": [
       "Shawn Crahan",
@@ -66,4 +66,6 @@
       "Jay Weinberg",
       "Michael Pfaff"
     ]
-  }]
+  }
+]
+}
