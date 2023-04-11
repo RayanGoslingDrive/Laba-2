@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sabaton",
+    "Bandname": "Sabaton",
     "hometown": "Falun, Sweden",
     "formed": "1999",
     "members": [
@@ -13,7 +13,7 @@
     "last_ablbum": "The War to End All Wars"
   },
   {
-    "name": "In Flames",
+    "Bandname": "In Flames",
     "hometown": "Gothenburg, Sweden",
     "formed": "1990",
     "members":
@@ -27,7 +27,7 @@
     "last_ablbum": "Foregone"
   },
   {
-    "name": "Lich King",
+    "Bandname": "Lich King",
     "hometown": "Amherst, Massachusetts, U.S.",
     "formed": "2004",
     "members": [
@@ -40,7 +40,7 @@
     "last_ablbum": "The Omniclasm"
   },
   {
-    "name": "Toxic Holocaust",
+    "Bandname": "Toxic Holocaust",
     "hometown": "Portland, Oregon",
     "formed": "1999",
     "members": [
@@ -51,7 +51,7 @@
     "last_ablbum": "Primal Future: 2019"
   },
   {
-    "name": "Slipknot",
+    "Bandname": "Slipknot",
     "hometown": "Des Moines, Iowa, U.S.",
     "formed": "1995",
     "members": [
