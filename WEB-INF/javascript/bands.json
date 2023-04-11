@@ -1,8 +1,8 @@
 [
   {
     "Bandname": "Sabaton",
-    "hometown": "Falun, Sweden",
-    "formed": "1999",
+    "hometown": "Falun Sweden",
+    "formed": 1999,
     "members": [
       "Joakim Brodén",
       "Pär Sundström",
@@ -14,8 +14,8 @@
   },
   {
     "Bandname": "In Flames",
-    "hometown": "Gothenburg, Sweden",
-    "formed": "1990",
+    "hometown": "Gothenburg Sweden",
+    "formed": 1990,
     "members":
     [
       "Björn Gelotte",
@@ -28,8 +28,8 @@
   },
   {
     "Bandname": "Lich King",
-    "hometown": "Amherst, Massachusetts, U.S.",
-    "formed": "2004",
+    "hometown": "Amherst Massachusetts US",
+    "formed": 2004,
     "members": [
       "Nick Timney",
       "Joe Nickerson",
@@ -41,8 +41,8 @@
   },
   {
     "Bandname": "Toxic Holocaust",
-    "hometown": "Portland, Oregon",
-    "formed": "1999",
+    "hometown": "Portland Oregon",
+    "formed": 1999,
     "members": [
       "Joel Grind",
       "Tyler Becker",
@@ -52,8 +52,8 @@
   },
   {
     "Bandname": "Slipknot",
-    "hometown": "Des Moines, Iowa, U.S.",
-    "formed": "1995",
+    "hometown": "Des Moines Iowa US",
+    "formed": 1995,
     "members": [
       "Shawn Crahan",
       "Craig Jones",
