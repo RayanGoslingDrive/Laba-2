@@ -3,35 +3,68 @@
     "name": "Sabaton",
     "hometown": "Falun, Sweden",
     "formed": "1999",
-    "members": "Joakim Brodén\nPär Sundström\nChris Rörland\nHannes Van Dahl\nTommy Johansson",
-    "last ablbum": "The War to End All Wars"
+    "members": [
+      "Joakim Brodén",
+      "Pär Sundström",
+      "Chris Rörland",
+      "Hannes Van Dahl",
+      "Tommy Johansson"
+    ],
+    "last_ablbum": "The War to End All Wars"
   },
   {
     "name": "In Flames",
     "hometown": "Gothenburg, Sweden",
     "formed": "1990",
-    "members": "Björn Gelotte\nAnders Fridén\nBryce Paul\nTanner Wayne\nChris Broderick",
-    "last ablbum": "Foregone"
+    "members":
+    [
+      "Björn Gelotte",
+      "Anders Fridén",
+      "Bryce Paul",
+      "Tanner Wayne",
+      "Chris Broderick"
+    ],
+    "last_ablbum": "Foregone"
   },
   {
     "name": "Lich King",
     "hometown": "Amherst, Massachusetts, U.S.",
     "formed": "2004",
-    "members": "Nick Timney\nJoe Nickerson\nMike Dreher\nBrian Westbrook\nZachary Smith",
-    "last ablbum": "The Omniclasm"
+    "members": [
+      "Nick Timney",
+      "Joe Nickerson",
+      "Mike Dreher",
+      "Brian Westbrook",
+      "Zachary Smith"
+    ],
+    "last_ablbum": "The Omniclasm"
   },
   {
     "name": "Toxic Holocaust",
     "hometown": "Portland, Oregon",
     "formed": "1999",
-    "members": "Joel Grind\nTyler Becker\nRobert Gray",
-    "last ablbum": "Primal Future: 2019"
+    "members": [
+      "Joel Grind",
+      "Tyler Becker",
+      "Robert Gray"
+    ],
+    "last_ablbum": "Primal Future: 2019"
   },
   {
     "name": "Slipknot",
     "hometown": "Des Moines, Iowa, U.S.",
     "formed": "1995",
-    "members": "Shawn Crahan\nCraig Jones\nMick Thomson\nCorey Taylor\nSid Wilson\nJim Root\nAlessandro Venturella\nJay Weinberg\nMichael Pfaff",
-    "last ablbum": "The End, So Far"
+    "members": [
+      "Shawn Crahan",
+      "Craig Jones",
+      "Mick Thomson",
+      "Corey Taylor",
+      "Sid Wilson",
+      "Jim Root",
+      "Alessandro Venturella",
+      "Jay Weinberg",
+      "Michael Pfaff"
+    ],
+    "last_ablbum": "The End, So Far"
   }
 ]
